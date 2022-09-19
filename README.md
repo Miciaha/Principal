@@ -3,6 +3,9 @@
 
 I am hired as a contractor to help a university migrate an existing student system to a new platform using C++ language. Since the application already exists, its requirements exist as well, and they are outlined in the next section. I am responsible for implementing the part of the system based on the following requirements. A list of data is provided as part of these requirements. This part of the system is responsible for reading and manipulating the provided data.
 
+## Console Screenshot
+![RunConsole](https://user-images.githubusercontent.com/14229230/159360037-fc768034-b689-4060-ac3d-2427420b341d.PNG)
+
 ## Project Requirements
 
 | # | Title | Description | Status | Notes |
@@ -145,6 +148,3 @@ classRoster.remove("A3");
 
 //expected: the above line should print a message saying such a student with this ID was not found.
 ```
-
-## Console Screenshot
-![RunConsole](https://user-images.githubusercontent.com/14229230/159360037-fc768034-b689-4060-ac3d-2427420b341d.PNG)
